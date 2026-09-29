@@ -45,4 +45,4 @@ python -m unittest discover -s tests -t .
 ```
 
 ## Screenshots
-_Add screenshots of a sample run here._
+![First screenshot](https://github.com/druvaandesai23-pixel/STUDENT-PERFORMANCE-AND-RISK-PREDECTION/blob/03380f0e4ba3499a0b6b1bd63f22cafa500e1c05/Screenshot%202026-09-29%20235243.png)
