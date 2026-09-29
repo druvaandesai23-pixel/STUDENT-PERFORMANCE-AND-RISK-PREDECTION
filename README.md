@@ -46,3 +46,5 @@ python -m unittest discover -s tests -t .
 
 ## Screenshots
 ![First screenshot](https://github.com/druvaandesai23-pixel/STUDENT-PERFORMANCE-AND-RISK-PREDECTION/blob/03380f0e4ba3499a0b6b1bd63f22cafa500e1c05/Screenshot%202026-09-29%20235243.png)
+![Second screenshot](https://github.com/druvaandesai23-pixel/STUDENT-PERFORMANCE-AND-RISK-PREDECTION/blob/3b9a0df017dd4b7922f29a56239f256439c5fa09/Screenshot%202026-09-29%20235313.png)
+
